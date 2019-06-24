@@ -1,0 +1,11 @@
+masses on clamped-clamped-beam specimen:
+
+Mass beam (effective part between clampings):
+140mm*8mm*1mm * 7700 kg/m^3
+= 0.06272 kg
+
+Mass of parts needed for clamping including bolts:
+0.95628 kg
+
+Total:
+1.019 kg
